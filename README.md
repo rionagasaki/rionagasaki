@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={rionagasaki}
+)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rionagasaki/rionagasaki** is a ✨ _special_ ✨ repository because its `README.md` ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={rionagasaki}
 )](https://github.com/anuraghazra/github-readme-stats)) appears on your GitHub profile.
